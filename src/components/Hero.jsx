@@ -5,8 +5,8 @@ function Hero() {
         <p className="eyebrow">ML / AI ENGINEER</p>
 
         <h1>
-          Building intelligent systems
-          <span> that solve real problems.</span>
+          Turning ideas 
+          <span> into AI-powered systems.</span>
         </h1>
 
         <p className="hero-description">
