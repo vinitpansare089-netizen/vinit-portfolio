@@ -29,7 +29,6 @@ function Hero() {
           Resume ↗
         </a>
 
-
           <a
             href="https://github.com/vinitpansare089-netizen"
             target="_blank"
